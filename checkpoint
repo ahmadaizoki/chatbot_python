@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/aaizoki/Bureau/chatbot_python/model.tflearn"
+all_model_checkpoint_paths: "/home/aaizoki/Bureau/chatbot_python/model.tflearn"

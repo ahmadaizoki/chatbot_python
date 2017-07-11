@@ -1,0 +1,16 @@
+{"intents": [
+        {"tag": "salutation",
+         "patterns": ["salut!", "coucou", "heyy", "bonjour!"],
+         "responses": ["salut,ca va?", "coucou", "salut","bonjour"],
+         "context_set": ""
+        },
+        {"tag": "ca_va",
+         "patterns": ["ca va ?", "comment vas tu?", "tu vas bien?"],
+         "responses": ["oui,très bien merci!", "ca va, et toi"]
+       },
+        {"tag": "preboarding",
+         "patterns": ["Je veux préparer l'accueil d'un nouveau consultant"," Je veux préparer l'accueil d'un nouvel arrivant"," Que doit-on faire pour accueillir un nouvel arrivant?"," Que doit-on faire pour accueillir un nouveau?"," Que dois-je faire pour accueillir un nouvel arrivant?"," Comment préparer l'arrivée d'un nouveau collaborateur?"," Quelle est la démarche pour accueillir un nouveau collaborateur?"," Je veux accueillir une nouvelle collaboratrice"," Je veux accueillir une nouvelle consultante"," Je veux accueillir un nouveau consultant"," C'est quoi la procédure pour accueillir un nouveau collaborateur?"," Quelle est la marche à suivre pour accueillir un nouveau collaborateur?", "Qu'est ce que je dois faire pour accueillir un nouveau collaborateur?"," Que dois je faire pour accueillir une nouvelle personne?"," Je souhaite accueillir un nouveau consultant"," Je souhaite accueillir une nouvelle personne"," Je souhaite accueillir un nouveau collaborateur"],
+         "responses": ["oui"]
+        }
+   ]
+}
